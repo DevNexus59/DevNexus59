@@ -41,7 +41,6 @@ Application Fullstack de fitness permettant la planification de séances et le s
 * **Architecture :** React (Vite) / Express / MySQL.
 * **Fonctionnalités :** Dashboard utilisateur, planning interactif (FullCalendar), gestion des favoris et authentification.
 * **Qualité :** Validation statique avec **TypeScript** et linting avec **Biome**.
-* **DevOps :** Environnement conteneurisé avec **Docker**.
 
 🔗 **Frontend :** [MoveUp](https://github.com/DevNexus59/moveup) | **Backend :** [API-MoveUp](https://github.com/DevNexus59/API-MoveUp)
 
